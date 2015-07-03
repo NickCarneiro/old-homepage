@@ -1,0 +1,43 @@
+body {
+	background: #fff;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	margin: 0px;
+}
+
+.intro {
+	font-size: 40px;
+	line-height: 45px;
+	margin-top: 20px;
+}
+
+#contact-info {
+	font-size: 20px;
+	list-style: none;
+	margin-left: 0px;
+	margin-top: 20px;
+}
+
+#contact-info li {
+	margin-bottom: 4px;
+}
+
+.smalltext {
+	font-size: 20px;
+	line-height: 22px;
+}
+
+.centertext {
+	text-align: center;
+}
+
+#nick-portrait {
+	display: block;
+}
+
+#intro-container {
+	padding: 0 15px 0 15px;
+}
+
+.no-break {
+	white-space: nowrap;
+}
